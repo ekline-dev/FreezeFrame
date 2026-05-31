@@ -2,11 +2,10 @@
   
  <img width="512" height="512" alt="d37a7486-c27d-44c2-b8f3-bc26642f61ec" src="https://github.com/user-attachments/assets/2e01b67b-011a-4a60-ac94-5e53120a389c" />
 
-
-
   <h1>FreezeFrame</h1>
-  <p><em>A lightweight desktop utility that lets you instantly pause your display with a single button
-.</em></p>
+  <p><em>A lightweight desktop utility that lets you instantly pause your display with a single button.</em></p>
+
+  [![Privacy Policy](https://img.shields.io/badge/Privacy-Policy-blue.svg)](Privacy.md)
 
 </div>
 
@@ -26,4 +25,3 @@ Whether you need to freeze a presentation slide while multitasking in the backgr
 ## ⚙️ Installation
 1. Download the latest release from the [Releases page](link-to-your-releases).
 2. Run the executable file.
-
