@@ -5,10 +5,9 @@
 Since FreezeFrame is currently in active development, only the latest release is supported with security updates. If you are using a beta or an older build, please update to the latest version before reporting an issue.
 
 | Version | Supported | Notes |
-| 0.2.0 | :construction: | In Development (New Features) |
-| 0.1.0 | :white_check_mark: | Current Stable Release |
-| 0.0.0 | :x: | Prototype (Lots of Bugs) |
-
+| 1.0.1 | ✅ | Current Stable Release |
+| 0.2.0 | 🚧 | In Development |
+| 0.0.0 | ❌ | Prototype (Lots of Bugs) |
 
 ## Reporting a Vulnerability
 
