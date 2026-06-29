@@ -6,8 +6,8 @@ Since FreezeFrame is currently in active development, only the latest release is
 
 | Version | Supported | Notes |
 | :--- | :--- | :--- |
-| 1.0.1 | ✅ | Current Stable Release |
 | 0.2.0 | 🚧 | In Development |
+| 0.1.0 | ✅ | Current Stable Release |
 | 0.0.0 | ❌ | Prototype (Lots of Bugs) |
 
 ## Reporting a Vulnerability
